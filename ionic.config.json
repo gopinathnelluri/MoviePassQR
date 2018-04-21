@@ -1,0 +1,8 @@
+{
+  "name": "MovePassQR",
+  "app_id": "d0b49a34",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
